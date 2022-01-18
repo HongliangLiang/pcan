@@ -1,0 +1,11 @@
+*.DS_Store
+venv
+crawl.log
+download
+*.pyc
+*.~
+*.log
+#*.csv
+*.swp
+*.ipynb
+__pycache__
